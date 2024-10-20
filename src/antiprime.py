@@ -21,9 +21,9 @@ def main(x) :
 			j = j + 1
 		l = l - 1
 	if k >= c:
-		res= "not anitprime"
+		res= "not anti-prime"
 	else:
-		res= "antprime"
+		res= "anti-prime"
 
 
 
